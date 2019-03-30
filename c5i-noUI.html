@@ -1,0 +1,15 @@
+<script src="https://nicolasserrano.github.io/c5i/c5i.js"></script>
+<textarea rows= 10 id='source1'>
+SET 90 4
+SET 91 5
+READ 90 
+ADD 91 
+WRITE 99
+</textarea>
+<textarea rows= 10 id='result'>
+</textarea>
+<script>
+result = document.getElementById("result");
+source = document.getElementById("source1").value;
+result.value = c5i(source);
+</script>
