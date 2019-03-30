@@ -19,3 +19,7 @@ El programa a utilizar dispondrá de 5 diferentes comandos:
 **3-Leer:** El procesador leerá el número que aparece en la casilla indicada por el usuario y lo sobrescribirá en la pantalla de respuesta. Además anotará la acción de la siguiente manera: En la primera casilla vacía que encuentre marcará que ha ejecutado la acción 3 (leer) y en la segunda anotará el número que se ha leido.
 
 **4-Escribir:** El procesador leerá el número que aparece en la panatalla de respuesta y lo escribirá en la casilla indicada por el usuario. Además anotará la acción de la siguiente manera: En la primera casilla vacía que encuentre marcará que ha ejecutado la acción 4 (escribir) y en la segunda anotará el número que se ha escrito.
+
+**5-Saltar:** Si el registro es 0, salta a la instrucción indicado en la dirección de memoria.
+
+![alt text](COMANDOS.PNG)
