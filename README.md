@@ -6,7 +6,7 @@ Para realizar esta práctica se usará el procesador c5i:  ["el procesador c5i"]
 
 ### FUNCIONAMIENTO DEL PROGRAMA
 
-![alt text](Explicación%20programa.PNG)
+![alt text](Funcionamiento%20Programa.PNG)
 
 ### COMANDOS
 
