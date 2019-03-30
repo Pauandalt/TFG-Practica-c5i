@@ -6,7 +6,7 @@ Para realizar esta práctica se usará el procesador c5i:  ["el procesador c5i"]
 
 ### FUNCIONAMIENTO DEL PROGRAMA
 
-![alt text](Explicación%20programa.PNG.PNG)
+![alt text](Explicación%20programa.PNG)
 
 ### COMANDOS
 
@@ -15,5 +15,7 @@ El programa a utilizar dispondrá de 5 diferentes comandos:
 **1-Sumar:** El procesador leerá el número que aparece en la casilla indicada  por el usuario y lo sumará al existente en la pantalla de respuesta. Además anotará la acción de la siguiente manera: En la primera casilla vacía que encuentre marcará que ha ejecutado la acción 1 (restar) y en la segunda anotará el número que se ha sumado.
 
 **2-Restar:** El procesador leerá el número que aparece en la casilla indicada por el usuario y lo restará al existente en la pantalla de respuesta. Además anotará la acción de la siguiente manera: En la primera casilla vacía que encuentre marcará que ha ejecutado la acción 2 (restar) y en la segunda anotará el número que se ha restado.
+
 **3-Leer:** El procesador leerá el número que aparece en la casilla indicada por el usuario y lo sobrescribirá en la pantalla de respuesta. Además anotará la acción de la siguiente manera: En la primera casilla vacía que encuentre marcará que ha ejecutado la acción 3 (leer) y en la segunda anotará el número que se ha leido.
+
 **4-Escribir:** El procesador leerá el número que aparece en la panatalla de respuesta y lo escribirá en la casilla indicada por el usuario. Además anotará la acción de la siguiente manera: En la primera casilla vacía que encuentre marcará que ha ejecutado la acción 4 (escribir) y en la segunda anotará el número que se ha escrito.
