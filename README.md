@@ -24,6 +24,4 @@ El programa a utilizar dispondrá de 5 diferentes comandos:
 
 ![alt text](COMANDOS.PNG)
 
-<iframe width="660" height="550" src="https://github.com/Pauandalt/TFG-Practica-c5i/blob/master/c5i-ui.html" frameborder="1" allowfullscreen></iframe>
-[procesador c5i](https://github.com/Pauandalt/TFG-Practica-c5i/blob/master/c5i-ui.html)
 
