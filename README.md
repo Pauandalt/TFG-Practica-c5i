@@ -1,8 +1,8 @@
 # PRÁCTICA: PROCESADOR C5I
 
-Para realizar esta práctica se usará el procesador c5i:  ["el procesador c5i"](https://nicolasserrano.github.io/c5i/Notas). 
+Para realizar esta práctica se usará el **procesador c5i**: (se encuentra más abajo)
 
-["El procesador c5i"](https://nicolasserrano.github.io/c5i/Notas) es un procesador que nos hará entender de una manera sencilla el funcionamiento de un ordenador. Una sociedad cada vez más informatizada, en la cual la industria 4.0 es una realidad, requiere prácticamente de todo profesional cierta destreza a la hora de emplear sistemas informáticos. Para ello, el fin de esta práctica consiste en mostrar de una manera sencilla el comportamiento general de un ordenador mediante el uso del procesador c5i.
+*El procesador c5i* es un procesador que nos hará entender de una manera sencilla el funcionamiento de un ordenador. Una sociedad cada vez más informatizada, en la cual la industria 4.0 es una realidad, requiere prácticamente de todo profesional cierta destreza a la hora de emplear sistemas informáticos. Para ello, el fin de esta práctica consiste en mostrar de una manera sencilla el comportamiento general de un ordenador mediante el uso del procesador c5i.
 
 ### FUNCIONAMIENTO DEL PROGRAMA
 
