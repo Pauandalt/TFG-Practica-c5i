@@ -28,11 +28,11 @@ El programa a utilizar dispondrá de 5 diferentes comandos:
 
 #### Ejercicio 1: Sumar dos números
 
-Escriba el número 7 en la casilla 42 y el número 18 en la casilla 49. Ejecute un programa que sume estas dos cifras y **escriba la respuesta en la casilla 99**. Compruebe que el resultados es correcto. 
+Escriba el número 7 en la casilla 42 y el número 18 en la casilla 49. Ejecute un programa que sume estas dos cifras y **escriba la respuesta en la casilla 99**. Compruebe que el resultado es correcto. 
 
 #### Ejercicio 2***: Restar dos números
 
-Escriba 0 en la casilla de respuesta. Manteniendo los números del ejercicio anterior, ejecute la siguiente operación: Casilla 49- casilla 42. **Escriba la respuesta en la casilla 99**. Compruebe que el resultados es correcto.
+Escriba 0 en la casilla de respuesta. Manteniendo los números del ejercicio anterior, ejecute la siguiente operación: Casilla 49- casilla 42. **Escriba la respuesta en la casilla 99**. Compruebe que el resultado es correcto.
 
 #### Ejercicio 3
 
