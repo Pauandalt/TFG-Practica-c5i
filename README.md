@@ -22,9 +22,9 @@ El programa a utilizar dispondrá de 5 diferentes comandos:
 
 ![alt text](COMANDOS.PNG)
 
-<iframe width="660" height="550" src="https://Pauandalt.github.io/TFG-Practica-c5i/c5i-ui.html" frameborder="1" allowfullscreen></iframe>
-
 ## PRÁCTICA
+
+<iframe width="660" height="550" src="https://Pauandalt.github.io/TFG-Practica-c5i/c5i-ui.html" frameborder="1" allowfullscreen></iframe>
 
 ### Ejercicio 1: Sumar dos números
 Escriba el número 12 en la casilla 10 y el número 9 en la casilla 70. Usando el comando *Add* del procesador c5i, sume las casillas deseadas escribiendo en el recuadro que ofrece el comando el número de la casilla (10 en el primer caso y 70 en el segundo).
