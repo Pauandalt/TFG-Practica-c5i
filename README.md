@@ -26,13 +26,15 @@ El programa a utilizar dispondrá de 5 diferentes comandos:
 
 ## PRÁCTICA
 
-#### Ejercicio 1: Sumar dos números
+### Ejercicio 1: Sumar dos números
+Escriba el número 12 en la casilla 10 y el número 9 en la casilla 70. Usando el comando *Add* del procesador c5i, sume las casillas deseadas escribiendo en el recuadro que ofrece el comando el número de la casilla (10 en el primer caso y 70 en el segundo).
 
-Escriba el número 7 en la casilla 42 y el número 18 en la casilla 49. Ejecute un programa que sume estas dos cifras y **escriba la respuesta en la casilla 99**. Compruebe que el resultado es correcto. 
+### Ejercicio 2: Restar dos números
+Escriba el número 12 en la casilla 10 y el número 9 en la casilla 70. Usando el comando *Substract* del procesador c5i, sume las casillas deseadas escribiendo en el recuadro que ofrece el comando el número de la casilla (10 en el primer caso y 70 en el segundo).
 
-#### Ejercicio 2***: Restar dos números
+### Ejercicio 3: Sumar dos números y escribir la respuesta en la casilla deseada:
+Escriba ahora el número 7 en la casilla 42 y el número 18 en la casilla 49. Ejecute un programa que sume estas dos cifras y escriba la respuesta en la casilla 99. Compruebe que el resultado es correcto.
 
-Escriba 0 en la casilla de respuesta. Manteniendo los números del ejercicio anterior, ejecute la siguiente operación: Casilla 49- casilla 42. **Escriba la respuesta en la casilla 99**. Compruebe que el resultado es correcto.
-
-#### Ejercicio 3
+### Ejercicio 4: Restar dos números y escribir la respuesta en la casilla deseada:
+Escriba 0 en la casilla de respuesta. Manteniendo los números del ejercicio anterior, ejecute la siguiente operación: Casilla 49- casilla 42. Escriba la respuesta en la casilla 99. Compruebe que el resultado es correcto.
 
